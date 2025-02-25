@@ -20,7 +20,7 @@ namespace my_mvp
         public Form1()
         {
             InitializeComponent();
-            presentor_ = new UserPresentor(new MemoryUsersModel(), this);      
+            presentor_ = new UserPresentor(new MemoryUsersModel(), this, userControl_first);      
         }
 
         public void ShowUsers(List<User> users)
@@ -33,6 +33,14 @@ namespace my_mvp
         {
             string text = textBox1.Text;
             presentor_.FilterByName(text);
+        }
+
+        
+
+        private void DataTable_SelectionChanged(object sender, EventArgs e)
+        {
+            int row = DataTable.CurrentCell.RowIndex;
+            presentor_.SelectedUser(row);
         }
     }
 }

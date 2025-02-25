@@ -31,7 +31,7 @@
             this.DataTable = new System.Windows.Forms.DataGridView();
             this.button_filtering = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.userControl11 = new WFCL.UserControl1();
+            this.userControl_first = new WFCL.UserControl1();
             ((System.ComponentModel.ISupportInitialize)(this.DataTable)).BeginInit();
             this.SuspendLayout();
             // 
@@ -40,8 +40,10 @@
             this.DataTable.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DataTable.Location = new System.Drawing.Point(12, 12);
             this.DataTable.Name = "DataTable";
+            this.DataTable.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.DataTable.Size = new System.Drawing.Size(724, 407);
             this.DataTable.TabIndex = 0;
+            this.DataTable.SelectionChanged += new System.EventHandler(this.DataTable_SelectionChanged);
             // 
             // button_filtering
             // 
@@ -60,19 +62,19 @@
             this.textBox1.Size = new System.Drawing.Size(137, 20);
             this.textBox1.TabIndex = 2;
             // 
-            // userControl11
+            // userControl_first
             // 
-            this.userControl11.Location = new System.Drawing.Point(23, 433);
-            this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(324, 182);
-            this.userControl11.TabIndex = 3;
+            this.userControl_first.Location = new System.Drawing.Point(23, 433);
+            this.userControl_first.Name = "userControl_first";
+            this.userControl_first.Size = new System.Drawing.Size(324, 182);
+            this.userControl_first.TabIndex = 3;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1017, 627);
-            this.Controls.Add(this.userControl11);
+            this.Controls.Add(this.userControl_first);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button_filtering);
             this.Controls.Add(this.DataTable);
@@ -89,7 +91,7 @@
         private System.Windows.Forms.DataGridView DataTable;
         private System.Windows.Forms.Button button_filtering;
         private System.Windows.Forms.TextBox textBox1;
-        private WFCL.UserControl1 userControl11;
+        private WFCL.UserControl1 userControl_first;
     }
 }
 
