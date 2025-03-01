@@ -1,6 +1,6 @@
 ﻿namespace my_mvp
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.

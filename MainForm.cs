@@ -14,10 +14,10 @@ using System.Windows.Forms;
 
 namespace my_mvp
 {
-    public partial class Form1 : Form, IUsersView
+    public partial class MainForm : Form, IUsersView
     {
         UserPresentor presentor_;
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             presentor_ = new UserPresentor(new MemoryUsersModel(), this, userControl_first);      
