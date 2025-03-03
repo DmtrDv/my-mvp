@@ -1,0 +1,6 @@
+D:\п 30\WFCL\bin\Debug\WFCL.dll
+D:\п 30\WFCL\bin\Debug\WFCL.pdb
+D:\п 30\WFCL\obj\Debug\WFCL.csproj.AssemblyReference.cache
+D:\п 30\WFCL\obj\Debug\WFCL.csproj.CoreCompileInputs.cache
+D:\п 30\WFCL\obj\Debug\WFCL.dll
+D:\п 30\WFCL\obj\Debug\WFCL.pdb

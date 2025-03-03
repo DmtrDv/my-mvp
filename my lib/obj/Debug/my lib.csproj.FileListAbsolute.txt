@@ -1,0 +1,18 @@
+D:\п 30\my lib\bin\Debug\my lib.dll
+D:\п 30\my lib\bin\Debug\my lib.pdb
+D:\п 30\my lib\obj\Debug\my lib.csproj.AssemblyReference.cache
+D:\п 30\my lib\obj\Debug\my lib.csproj.CoreCompileInputs.cache
+D:\п 30\my lib\obj\Debug\my lib.dll
+D:\п 30\my lib\obj\Debug\my lib.pdb
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\my lib\bin\Debug\my lib.dll
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\my lib\bin\Debug\my lib.pdb
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\my lib\obj\Debug\my lib.csproj.AssemblyReference.cache
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\my lib\obj\Debug\my lib.csproj.CoreCompileInputs.cache
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\my lib\obj\Debug\my lib.dll
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\my lib\obj\Debug\my lib.pdb
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\my lib\bin\Debug\my lib.dll
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\my lib\bin\Debug\my lib.pdb
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\my lib\obj\Debug\my lib.csproj.AssemblyReference.cache
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\my lib\obj\Debug\my lib.csproj.CoreCompileInputs.cache
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\my lib\obj\Debug\my lib.dll
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\my lib\obj\Debug\my lib.pdb

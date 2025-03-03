@@ -32,15 +32,19 @@ namespace my_mvp
         private void button_filtering_Click(object sender, EventArgs e)
         {
             string text = textBox1.Text;
+            MessageBox.Show(text);
             presentor_.FilterByName(text);
         }
-
-        
 
         private void DataTable_SelectionChanged(object sender, EventArgs e)
         {
             int row = DataTable.CurrentCell.RowIndex;
             presentor_.SelectedUser(row);
+        }
+
+        private void button_Delete_User_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

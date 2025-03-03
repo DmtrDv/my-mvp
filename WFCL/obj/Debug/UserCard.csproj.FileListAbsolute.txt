@@ -1,0 +1,30 @@
+D:\п 30\WFCL\bin\Debug\WFCL.dll
+D:\п 30\WFCL\bin\Debug\WFCL.pdb
+D:\п 30\WFCL\obj\Debug\UserCard.csproj.AssemblyReference.cache
+D:\п 30\WFCL\obj\Debug\WFCL.UserControl1.resources
+D:\п 30\WFCL\obj\Debug\UserCard.csproj.GenerateResource.cache
+D:\п 30\WFCL\obj\Debug\UserCard.csproj.CoreCompileInputs.cache
+D:\п 30\WFCL\obj\Debug\WFCL.dll
+D:\п 30\WFCL\obj\Debug\WFCL.pdb
+D:\п 30\WFCL\bin\Debug\my lib.dll
+D:\п 30\WFCL\bin\Debug\my lib.pdb
+D:\п 30\WFCL\obj\Debug\UserCard.csproj.Up2Date
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\WFCL\obj\Debug\UserCard.csproj.AssemblyReference.cache
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\WFCL\obj\Debug\WFCL.Properties.Resources.resources
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\WFCL\obj\Debug\WFCL.UserControl1.resources
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\WFCL\obj\Debug\UserCard.csproj.GenerateResource.cache
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\WFCL\obj\Debug\UserCard.csproj.CoreCompileInputs.cache
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\WFCL\obj\Debug\WFCL.dll
+E:\jhyertguetguuhregfuiergterhtgeuirygfthtu4wrt3gtfrurgbvefgyewrufhukyhweugrfwqetggrfyhwe4grwqugrbu3qw4rgu32\WFCL\obj\Debug\WFCL.pdb
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\bin\Debug\WFCL.dll
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\bin\Debug\WFCL.pdb
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\bin\Debug\my lib.dll
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\bin\Debug\my lib.pdb
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\UserCard.csproj.AssemblyReference.cache
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\WFCL.Properties.Resources.resources
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\WFCL.UserControl1.resources
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\UserCard.csproj.GenerateResource.cache
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\UserCard.csproj.CoreCompileInputs.cache
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\UserCard.csproj.Up2Date
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\WFCL.dll
+D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\WFCL.pdb
