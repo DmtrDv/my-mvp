@@ -15,6 +15,6 @@ namespace my_lib.models
         event Action DataIsLoaded;
 
         void ChangeUser(User obj);
-        void DeleteUser(User obj);
+        void DeleteUser(string DeleteByLogin);
     }
 }

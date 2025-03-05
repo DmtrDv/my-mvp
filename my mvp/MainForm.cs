@@ -44,7 +44,16 @@ namespace my_mvp
 
         private void button_Delete_User_Click(object sender, EventArgs e)
         {
-            
+            DialogResult DialogRes= MessageBox.Show("Вы хотите удалить выбранного пользователя?", "Проверка на вменяемость", MessageBoxButtons.YesNo);
+            if (DialogRes == DialogResult.Yes)
+            {
+                presentor_.Model__DeleteUser();
+            }
+            else if (DialogRes == DialogResult.No) { }
+        }
+        public int GetSelectedUserIndex()
+        {
+            return DataTable.CurrentCell.RowIndex;
         }
     }
 }

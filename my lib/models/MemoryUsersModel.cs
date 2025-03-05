@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,7 +15,7 @@ namespace my_lib.models
         public event Action DataIsLoaded;
 
         public List<User> GetUsers()
-        {
+        { 
             return FilterUsers_;
         }
 
@@ -86,9 +87,14 @@ namespace my_lib.models
         {
             ChangeUser(obj);
         }        
-        public void DeleteUser (User obj)
+        public void DeleteUser (string DeleteByLogin)
         {
-            
+            User delete = FilterUsers_.FirstOrDefault(u => u.Login == DeleteByLogin);
+            if (delete != null)
+            {
+                Users_.Remove(delete); FilterUsers_.Remove(delete);
+                DataIsLoaded.Invoke();
+            }
         }
     }
 }

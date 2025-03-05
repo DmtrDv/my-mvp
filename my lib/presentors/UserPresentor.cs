@@ -44,5 +44,16 @@ namespace my_lib.presentors
             User u = model_.GetUsers()[row];
             card_.Show(u);
         }
+
+        public void Model__DeleteUser()
+        {
+            int DeleteIndex = view_.GetSelectedUserIndex();
+            if (DeleteIndex < 0 || DeleteIndex >= model_.GetUsers().Count)
+            {
+                return;
+            }
+            User u = model_.GetUsers()[DeleteIndex];
+            model_.DeleteUser(u.Login);
+        }
     }
 }
