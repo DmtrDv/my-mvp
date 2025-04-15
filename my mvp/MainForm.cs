@@ -53,7 +53,11 @@ namespace my_mvp
         }
         public int GetSelectedUserIndex()
         {
-            return DataTable.CurrentCell.RowIndex;
+            if (DataTable.CurrentCell != null)
+            {
+                return DataTable.CurrentCell.RowIndex;
+            }
+            return 0;
         }
     }
 }

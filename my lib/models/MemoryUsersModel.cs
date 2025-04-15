@@ -27,7 +27,7 @@ namespace my_lib.models
                 Name = "Одиндватри", 
                 Sername = "Одиндватривов",
                 Birrshday = new DateTime(2025, 1, 1),
-                avatar_Path = "D:\\\\п 30\\i.jpg"
+                avatar_Path = "i.jpg"
             }
             );
             Users_.Add(new User
@@ -37,7 +37,7 @@ namespace my_lib.models
                 Name = "Единица",
                 Sername = "Единицев",
                 Birrshday = new DateTime(2025, 2, 1),
-                avatar_Path = "D:\\\\п 30\\i.jpg"
+                avatar_Path = "i.jpg"
             }
             );
             Users_.Add(new User
@@ -47,7 +47,7 @@ namespace my_lib.models
                 Name = "Тройка",
                 Sername = "Тройков",
                 Birrshday = new DateTime(2025, 1, 2),
-                avatar_Path = "D:\\\\п 30\\i.jpg",
+                avatar_Path = "i.jpg",
                 Email = "WWW@Gmail"
             }
             );

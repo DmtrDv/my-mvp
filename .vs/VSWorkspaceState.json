@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\my mvp",
+    "\\WFCL"
   ],
-  "SelectedNode": "\\my mvp.sln",
+  "SelectedNode": "\\my mvp\\MainForm.cs",
   "PreviewInSolutionExplorer": false
 }

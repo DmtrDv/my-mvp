@@ -41,6 +41,10 @@ namespace my_lib.presentors
         }
         public void SelectedUser(int row) 
         {
+            if (row < 0 || row >= model_.GetUsers().Count)
+            {
+                return;
+            }
             User u = model_.GetUsers()[row];
             card_.Show(u);
         }

@@ -49,6 +49,5 @@
     <Compile Include="views\IUserCard.cs" />
     <Compile Include="views\IUsersView.cs" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

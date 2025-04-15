@@ -41,10 +41,9 @@
             // 
             // button_Edit
             // 
-            this.button_Edit.Location = new System.Drawing.Point(33, 172);
-            this.button_Edit.Margin = new System.Windows.Forms.Padding(4);
+            this.button_Edit.Location = new System.Drawing.Point(209, 137);
             this.button_Edit.Name = "button_Edit";
-            this.button_Edit.Size = new System.Drawing.Size(139, 28);
+            this.button_Edit.Size = new System.Drawing.Size(104, 23);
             this.button_Edit.TabIndex = 0;
             this.button_Edit.Text = "редактировать";
             this.button_Edit.UseVisualStyleBackColor = true;
@@ -52,71 +51,67 @@
             // 
             // pictureBox_first
             // 
-            this.pictureBox_first.Location = new System.Drawing.Point(33, 26);
-            this.pictureBox_first.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox_first.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox_first.Location = new System.Drawing.Point(25, 21);
             this.pictureBox_first.Name = "pictureBox_first";
-            this.pictureBox_first.Size = new System.Drawing.Size(133, 95);
+            this.pictureBox_first.Size = new System.Drawing.Size(100, 77);
             this.pictureBox_first.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox_first.TabIndex = 1;
             this.pictureBox_first.TabStop = false;
             // 
             // textBox_Name
             // 
-            this.textBox_Name.Location = new System.Drawing.Point(284, 26);
-            this.textBox_Name.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_Name.Location = new System.Drawing.Point(213, 21);
             this.textBox_Name.Name = "textBox_Name";
-            this.textBox_Name.Size = new System.Drawing.Size(132, 22);
+            this.textBox_Name.Size = new System.Drawing.Size(100, 20);
             this.textBox_Name.TabIndex = 2;
             // 
             // textBox_SurName
             // 
-            this.textBox_SurName.Location = new System.Drawing.Point(284, 71);
-            this.textBox_SurName.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_SurName.Location = new System.Drawing.Point(213, 58);
             this.textBox_SurName.Name = "textBox_SurName";
-            this.textBox_SurName.Size = new System.Drawing.Size(132, 22);
+            this.textBox_SurName.Size = new System.Drawing.Size(100, 20);
             this.textBox_SurName.TabIndex = 3;
             // 
             // textBox_email
             // 
-            this.textBox_email.Location = new System.Drawing.Point(284, 118);
-            this.textBox_email.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox_email.Location = new System.Drawing.Point(213, 96);
             this.textBox_email.Name = "textBox_email";
-            this.textBox_email.Size = new System.Drawing.Size(132, 22);
+            this.textBox_email.Size = new System.Drawing.Size(100, 20);
             this.textBox_email.TabIndex = 4;
             // 
             // label_name
             // 
             this.label_name.AutoSize = true;
-            this.label_name.Location = new System.Drawing.Point(239, 29);
-            this.label_name.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_name.Location = new System.Drawing.Point(179, 24);
             this.label_name.Name = "label_name";
-            this.label_name.Size = new System.Drawing.Size(41, 16);
+            this.label_name.Size = new System.Drawing.Size(33, 13);
             this.label_name.TabIndex = 5;
             this.label_name.Text = "name";
             // 
             // label_surname
             // 
             this.label_surname.AutoSize = true;
-            this.label_surname.Location = new System.Drawing.Point(221, 74);
-            this.label_surname.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_surname.Location = new System.Drawing.Point(166, 60);
             this.label_surname.Name = "label_surname";
-            this.label_surname.Size = new System.Drawing.Size(59, 16);
+            this.label_surname.Size = new System.Drawing.Size(47, 13);
             this.label_surname.TabIndex = 6;
             this.label_surname.Text = "surname";
             // 
             // label_email
             // 
             this.label_email.AutoSize = true;
-            this.label_email.Location = new System.Drawing.Point(240, 124);
-            this.label_email.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_email.Location = new System.Drawing.Point(180, 101);
             this.label_email.Name = "label_email";
-            this.label_email.Size = new System.Drawing.Size(40, 16);
+            this.label_email.Size = new System.Drawing.Size(31, 13);
             this.label_email.TabIndex = 7;
             this.label_email.Text = "email";
             // 
             // UserControl1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.label_email);
             this.Controls.Add(this.label_surname);
@@ -126,9 +121,8 @@
             this.Controls.Add(this.textBox_Name);
             this.Controls.Add(this.pictureBox_first);
             this.Controls.Add(this.button_Edit);
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "UserControl1";
-            this.Size = new System.Drawing.Size(432, 224);
+            this.Size = new System.Drawing.Size(324, 182);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_first)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

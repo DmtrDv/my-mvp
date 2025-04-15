@@ -28,3 +28,15 @@ D:\документы\проекты C#\тех\прог 3к\репозитори
 D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\UserCard.csproj.Up2Date
 D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\WFCL.dll
 D:\документы\проекты C#\тех\прог 3к\репозитории\MDK 01.01\my mvp\WFCL\obj\Debug\WFCL.pdb
+D:\п30\mvp\WFCL\bin\Debug\WFCL.dll
+D:\п30\mvp\WFCL\bin\Debug\WFCL.pdb
+D:\п30\mvp\WFCL\bin\Debug\my lib.dll
+D:\п30\mvp\WFCL\bin\Debug\my lib.pdb
+D:\п30\mvp\WFCL\obj\Debug\UserCard.csproj.AssemblyReference.cache
+D:\п30\mvp\WFCL\obj\Debug\WFCL.Properties.Resources.resources
+D:\п30\mvp\WFCL\obj\Debug\WFCL.UserControl1.resources
+D:\п30\mvp\WFCL\obj\Debug\UserCard.csproj.GenerateResource.cache
+D:\п30\mvp\WFCL\obj\Debug\UserCard.csproj.CoreCompileInputs.cache
+D:\п30\mvp\WFCL\obj\Debug\UserCard.csproj.Up2Date
+D:\п30\mvp\WFCL\obj\Debug\WFCL.dll
+D:\п30\mvp\WFCL\obj\Debug\WFCL.pdb
