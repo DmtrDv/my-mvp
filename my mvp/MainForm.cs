@@ -20,6 +20,7 @@ namespace my_mvp
         public MainForm()
         {
             InitializeComponent();
+            tableLayoutPanel1.SetColumnSpan(DataTable, 2);
             presentor_ = new UserPresentor(new MemoryUsersModel(), this, userControl_first);      
         }
 
@@ -31,8 +32,7 @@ namespace my_mvp
 
         private void button_filtering_Click(object sender, EventArgs e)
         {
-            string text = textBox1.Text;
-            MessageBox.Show(text);
+            string text = textBox1.Text;            
             presentor_.FilterByName(text);
         }
 

@@ -24,31 +24,33 @@ namespace my_lib.models
             Users_.Add(new User {
                 Login = "123",
                 Password = "123", 
-                Name = "Одиндватри", 
-                Sername = "Одиндватривов",
+                Name = "Первый", 
+                Sername = "Первый",
                 Birrshday = new DateTime(2025, 1, 1),
-                avatar_Path = "i.jpg"
+                avatar_Path = "D:\\i.jpg",
+                Email = "first@Gmail"
             }
             );
             Users_.Add(new User
             {
                 Login = "111",
                 Password = "111",
-                Name = "Единица",
-                Sername = "Единицев",
+                Name = "Второй",
+                Sername = "Второй",
                 Birrshday = new DateTime(2025, 2, 1),
-                avatar_Path = "i.jpg"
+                avatar_Path = "D:\\i.jpg",
+                Email = "Second@Gmail"
             }
             );
             Users_.Add(new User
             {
                 Login = "333",
                 Password = "333",
-                Name = "Тройка",
-                Sername = "Тройков",
+                Name = "Третий",
+                Sername = "Третий",
                 Birrshday = new DateTime(2025, 1, 2),
-                avatar_Path = "i.jpg",
-                Email = "WWW@Gmail"
+                avatar_Path = "D:\\i.jpg",
+                Email = "Third@Gmail"
             }
             );
             FilterUsers_ = new List<User>(Users_);
@@ -79,6 +81,7 @@ namespace my_lib.models
                     Users_[index].Name = obj.Name;
                     Users_[index].Sername = obj.Sername;
                     Users_[index].Email = obj.Email;
+                    Users_[index].avatar_Path = obj.avatar_Path;
                 }
             }
             DataIsLoaded.Invoke();

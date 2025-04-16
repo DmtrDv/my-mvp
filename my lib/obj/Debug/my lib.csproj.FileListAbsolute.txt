@@ -22,3 +22,9 @@ D:\п30\mvp\my lib\obj\Debug\my lib.csproj.AssemblyReference.cache
 D:\п30\mvp\my lib\obj\Debug\my lib.csproj.CoreCompileInputs.cache
 D:\п30\mvp\my lib\obj\Debug\my lib.dll
 D:\п30\mvp\my lib\obj\Debug\my lib.pdb
+D:\документы\проекты C#\тех\прог 3к\репозитории\mymvp\my lib\bin\Debug\my lib.dll
+D:\документы\проекты C#\тех\прог 3к\репозитории\mymvp\my lib\bin\Debug\my lib.pdb
+D:\документы\проекты C#\тех\прог 3к\репозитории\mymvp\my lib\obj\Debug\my lib.csproj.AssemblyReference.cache
+D:\документы\проекты C#\тех\прог 3к\репозитории\mymvp\my lib\obj\Debug\my lib.csproj.CoreCompileInputs.cache
+D:\документы\проекты C#\тех\прог 3к\репозитории\mymvp\my lib\obj\Debug\my lib.dll
+D:\документы\проекты C#\тех\прог 3к\репозитории\mymvp\my lib\obj\Debug\my lib.pdb
